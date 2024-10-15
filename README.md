@@ -1,0 +1,1 @@
+# rikuima-s-osu-skin
