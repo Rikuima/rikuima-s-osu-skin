@@ -1,1 +1,1 @@
-### Rikuima's osu skin
+# Rikuima's osu skin
